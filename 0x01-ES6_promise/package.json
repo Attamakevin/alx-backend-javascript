@@ -5,7 +5,7 @@
     "dev": "npx babel-node",
     "test": "jest",
     "full-test": "./node_modules/.bin/eslint [0-9]*.js && jest",
-    "fix-lint":"./node_modules/.bin/eslint --fix"
+    "fix-lint": "./node_modules/.bin/eslint --fix"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
